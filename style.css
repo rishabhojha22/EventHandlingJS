@@ -1,0 +1,38 @@
+.divs{
+    display: flex;
+    margin: 95px;
+    text-align: center;
+    font-size: 24px;
+}
+
+#div4{
+    background-color:red;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+#div5{
+    background-color:rgb(255, 0, 0);
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+#div6{
+    background-color:red;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
+
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+#node{
+    margin: auto;
+    display: flex;
+}
